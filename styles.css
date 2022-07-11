@@ -1,0 +1,164 @@
+#title {
+  background-color: #FF9A00;
+  color: white;
+  padding: 3rem 1rem;
+  padding-bottom: 6.5rem;
+}
+
+.navbar-brand {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: white;
+}
+
+.nav-item {
+  padding: 0 5.6rem;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.logo {
+  font-family: 'Fira Sans', sans-serif;
+}
+
+.title-img {
+  width: 75%;
+  border-radius: 10%;
+}
+
+.col-right {
+  text-align: center;
+}
+
+.col-lg-7 {
+  padding: 4rem 0;
+}
+
+.col-lg-5 {
+  padding: 4rem 0;
+}
+
+.download-button {
+  margin: 3rem 1.5rem;
+}
+
+.home-buttons {
+  margin-right: 2rem;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+.nav-link {
+  color: white;
+}
+
+.nav-link:hover {
+  color: #C2FFD9;
+}
+
+/* Section-2 */
+#welcome-section {
+  background-color: #F15412;
+  padding: 4rem 6rem 8rem;
+  padding-bottom: 15rem;
+}
+
+.welcome-image {
+  width: 60%;
+}
+
+.text-col {
+  background-color: red;
+  border-radius: 10px 0 0 10px;
+}
+
+.img-col {
+  background-color: white;
+  text-align: center;
+  border-radius: 0 10px 10px 0;
+}
+
+.welcome-heading {
+  color: white;
+  margin: 3rem;
+}
+
+.welcome-text {
+  margin-left: 3rem;
+  color: white;
+  margin-bottom: 3rem;
+}
+
+/* Glimpse */
+#glimpse {
+  background-color: #FF9A00;
+  text-align: center;
+  padding: 0 3rem;
+  padding-top: 12rem;
+  padding-bottom: 8.4rem;
+}
+
+.glimpse-text {
+  padding: 3rem 0;
+  color: white;
+}
+
+.glimpse-box {
+  text-align: center;
+  padding-bottom: 3rem;
+}
+
+.glimpse-logo {
+  font-size: 3.5rem;
+  color: #205375;
+  padding-bottom: 1.5rem;
+}
+
+/* Previous Speakers */
+#previous-speakers {
+  text-align: center;
+  background-color: #F15412;
+  padding-top: 6rem;
+  padding-left: 10rem;
+  padding-right: 3.8rem;
+  padding-bottom: 6rem;
+}
+
+.card-img-top {
+  width: 100%;
+}
+
+
+.ps-text{
+  padding-bottom: 3rem;
+  padding-right: 1rem;
+}
+
+
+
+
+#tracks{
+  background-color: #FF9A00;
+  text-align: center;
+  padding-top: 6rem;
+  padding-bottom: 3rem;
+
+}
+
+.tracks-mini-box{
+  margin:6rem;
+
+
+}
+
+
+
+.card-text{
+  padding:1.5rem;
+}
